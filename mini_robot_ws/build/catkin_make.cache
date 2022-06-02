@@ -1,0 +1,2 @@
+robot_control
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/mini_robot/mini_robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/mini_robot/mini_robot_ws/install -G Unix Makefiles

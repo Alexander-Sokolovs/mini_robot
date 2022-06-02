@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntu/mini_robot/mini_robot_ws/devel/setup.sh
